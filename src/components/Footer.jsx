@@ -18,10 +18,10 @@ const Footer = () => {
         by{" "}
         <a
           target="_blank"
-          href="https://github.com/abdarker"
+          href="https://bluebyte.digital"
           className="underline text-black"
         >
-          Abue Ammar.
+          BlueByte.Digital
         </a>
       </span>
     </footer>
