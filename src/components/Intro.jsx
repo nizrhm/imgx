@@ -7,7 +7,7 @@ const Intro = () => {
       <span className="max-w-[750px] text-center text-lg sm:text-xl">
         We deliver unmatched efficiency{" "}
         <span className="font-semibold underline">
-          , without storing a single file.
+         , without storing a single file.
         </span>{" "}
         Experience lightning-fast compression, all in one place.
       </span>
